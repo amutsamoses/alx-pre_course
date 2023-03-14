@@ -1,1 +1,1 @@
-My git alx pre course
+Alx projects are awesome
